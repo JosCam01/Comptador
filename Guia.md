@@ -16,6 +16,8 @@ _Si volguera afegir una nova activitat, sería suficient crear el fitxer de layo
 
 Afegir una nova activitat a una aplicació Android implica més passos que simplement crear un fitxer de disseny (layout) i un fitxer Kotlin (o Java) amb la classe.
 
+En resum, afegir una nova activitat a una aplicació d'Android implica diversos passos i implicacions, com ara la configuració del manifest, la gestió del cicle de vida, la navegació i la personalització del comportament. És important seguir aquest procés per assegurar-te que la nova activitat funcioni correctament dins de la teva aplicació.
+
 # SUMA
 
 ![image](https://github.com/JosCam01/Comptador/assets/124562205/048f4539-3b06-4a49-a0f7-6a08570a3897)
